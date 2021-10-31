@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718097242464",
+    "project_id": "notelet-d1e5b",
+    "storage_bucket": "notelet-d1e5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718097242464:android:186c3d641c21a8b4146605",
+        "android_client_info": {
+          "package_name": "com.example.notelet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718097242464-gqhbcucna10jitdllrgqmg9ujlaadve3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtrMufjyLOLKrcrc8u2UElCB-u2nLGUnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718097242464-gqhbcucna10jitdllrgqmg9ujlaadve3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
