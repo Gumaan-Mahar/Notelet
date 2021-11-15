@@ -28,13 +28,13 @@ class CustomButton extends StatelessWidget {
         alignment: Alignment.center,
         decoration: BoxDecoration(
           color: color,
-          borderRadius: BorderRadius.circular(15),
+          borderRadius: BorderRadius.circular(10),
         ),
         child: Text(
           text,
-          style:  TextStyle(
-            fontWeight: FontWeight.bold,
-            fontSize: 16,
+          style: TextStyle(
+            fontWeight: FontWeight.w600,
+            fontSize: 20.0,
             color: textColor,
           ),
         ),
